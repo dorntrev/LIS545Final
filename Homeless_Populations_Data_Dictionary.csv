@@ -1,0 +1,10 @@
+Variable,Variable Name,Measurement Unit,Allowed Values,Definition
+County,County,String,State/provincial County names,The specific names of the counties that exist inside of states or provinces.
+Persons,Persons,Numerical,Real numbers greater than 0,The number of people who experience the various degrees of homelessness.
+With_minors,Households With Minors,Numerical,Real numbers greater than 0,The number of family units of people suffering from homelessness that have minors.
+Without_minors,Households Without Minors,Numerical,Real numbers greater than 0,The number of family units of people suffering from homelessness that do not have minors.
+Sheltered_households,Sheltered Households,Numerical,Real numbers greater than 0,The number of family units of people suffering from homelessness that reside in shelters.
+Unsheltered_households,Unsheltered Households,Numerical,Real numbers greater than 0,The number of family units of people suffering from homelessness that do no reside in stable shelters.
+Chronically_homeless,Chronically Homeless Persons,Numerical,Real numbers greater than 0,"The number of individual peoples suffering from homelessness that remain homeless for extended periods of time, >6months."
+Emergency_shelter,Emergency Shelters and Safe Haven,Numerical,Real numbers greater than 0,The number of chronically homeless persons who reside in emergency shelters or safe havens.
+Total_population,Total Population,Numerical,Real numbers greater than 0,The total population of people that reside in a given county.

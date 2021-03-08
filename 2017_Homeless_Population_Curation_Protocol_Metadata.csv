@@ -1,0 +1,24 @@
+Attribute,Value
+title,
+description,"This dataset shows the total homeless populations of Washington State in 2016, and the breakdown of those population by county."
+keyword,"""homeless"" ""unemployed"" ""housing assistance"" ""washington"""
+modified,7/3/2021
+publisher,Trevor Dorn
+identifier,https://github.com/dorntrev/LIS545Final
+accessLevel,Public
+rights,These data sets are publicly available independently at their respective government sites and the combined datasets are freely available to everyone.
+temporal,2016-01 - 2017-01
+accrualPeriodicity,2016/P1Y
+theme,"""homeless populations"",""washington homelessness"""
+references,"https://files.hudexchange.info/resources/documents/Data-Mapping-Instructions-for-2017-AHAR.pdf
+http://www.commerce.wa.gov/wp-content/uploads/2015/08/Commerce-Homelessness-in-Washington-2016.pdf
+https://datacommons.org/place/geoId/53?utm_medium=explore&mprop=count&popt=Person&hl=en
+https://resources.data.gov/resources/dcat-us/#contactPoint-fn
+https://www.washington-demographics.com/counties_by_population"
+format,CSV
+mediaType,CSV
+accessURL,https://github.com/dorntrev/LIS545Final
+downloadURL,https://github.com/dorntrev/LIS545Final
+hasEmail,mailTo: dorntrev@uw.edu
+fn,Trevor Dorn
+language,en-us
